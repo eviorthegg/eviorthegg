@@ -26,4 +26,4 @@
 
 **Stack** · TypeScript, Node.js, React, Python, C++ · AWS (Lambda, SAM, API Gateway), Google Cloud · MongoDB, SQL, Redis · WebSockets, WebRTC, LLM APIs · Unreal Engine 5
 
-**Contact** · [eviortech@gmail.com](mailto:eviortech@gmail.com)
+**Contact** · [eviortech@gmail.com](mailto:eviortech@gmail.com) · [LinkedIn](https://www.linkedin.com/in/michael-naor-9b2868230/)
